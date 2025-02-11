@@ -51,5 +51,3 @@ Birinci tarih epoch zamanı: 1733966400
 ## 🎯 Gerçek Hayatta Kullanım Örneği
 Bu program, **çalışanların fazla mesai hesaplaması, etkinlikler arasındaki süre ölçümü veya log kayıtlarındaki zaman farklarını analiz etmek** için kullanılabilir.
 
-## 📄 Lisans
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
